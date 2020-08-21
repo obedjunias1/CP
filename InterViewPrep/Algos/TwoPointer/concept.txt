@@ -1,0 +1,11 @@
+
+https://leetcode.com/articles/two-pointer-technique/
+#####Classic problems:
+
+    Remove Duplicates from Sorted Array
+    Two Sum II - Input array is sorted
+    Reverse Words in a String II
+    Rotate Array
+    Valid Palindrome
+    Container With Most Water
+    Product of Array Except Self
